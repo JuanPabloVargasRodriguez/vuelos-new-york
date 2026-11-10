@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.vscode/
+.DS_Store
+.env
+sitio/*.html
+sitio/.nojekyll
